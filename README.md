@@ -1,27 +1,36 @@
-# CalculadoraApp
+# Calculadora desarrollada en Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+Esta es una calculadora simple desarrollada en Angular. La calculadora permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Características
 
-## Code scaffolding
+- Realiza operaciones matemáticas básicas.
+- Interfaz de usuario amigable.
+- Diseño responsivo.
+- Desarrollado en Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Cómo usar
 
-## Build
+1. Clona este repositorio en tu máquina local utilizando `git clone`.
+2. Navega al directorio del proyecto.
+3. Ejecuta `ng serve` para iniciar la aplicación de Angular localmente.
+4. Abre un navegador web y visita `http://localhost:4200/` para ver la calculadora en acción.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Contribuir
 
-## Running unit tests
+Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes abrir problemas, solicitudes de extracción o realizar mejoras en el código.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Autor
 
-## Further help
+Desarrollado por [Yoshio Geovanni García López](https://github.com/geovannigarcia95).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Fecha
+
+Elaborada el 25 de Octubre del 2023
+
+## Agradecimientos
+
+- Agradezco a Angular por proporcionar una plataforma sólida para desarrollar aplicaciones web.
